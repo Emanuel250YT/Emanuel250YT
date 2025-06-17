@@ -1,5 +1,8 @@
 <img src="https://cdn.discordapp.com/attachments/1127318748374777968/1127404691907682426/Screenshot_4.png"></img>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Emanuel250YT&theme=merko&hide_border=true" alt="GitHub Streak" />
+</p>
 
 I am a novice programmer with a passion for emerging technologies and a drive to develop innovative solutions. I am committed to learning and developing my skills as a programmer. I have been working with programming languages such as **Java**, **JavaScript**, **Python**, and **HTML** to develop applications and websites. I am interested in creating mobile applications and working with the cloud to create secure storage services. I am committed to continue learning and developing my skills as a programmer.
 
